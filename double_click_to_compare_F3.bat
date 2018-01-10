@@ -1,0 +1,1 @@
+cmd /k py.exe compareF3.py
